@@ -1,0 +1,162 @@
+[
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "category": "Entretenimiento",
+    "categoryList": "entertainment",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Netflix_2015_N_logo.svg/1128px-Netflix_2015_N_logo.svg.png",
+    "color": "#E50914"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "category": "Música",
+    "categoryList": "music",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png",
+    "color": "#1DB954"
+  },
+  {
+    "id": "youtube-premium",
+    "name": "YouTube Premium",
+    "category": "Entretenimiento",
+    "categoryList": "entertainment",
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2504/2504848.png",
+    "color": "#FF0000"
+  },
+  {
+    "id": "apple-music",
+    "name": "Apple Music",
+    "category": "Música",
+    "categoryList": "music",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Apple_Music_logo.svg/1024px-Apple_Music_logo.svg.png",
+    "color": "#FA233B"
+  },
+  {
+    "id": "canva",
+    "name": "Canva Pro",
+    "category": "Productividad",
+    "categoryList": "productivity",
+    "logoUrl": "https://cdn-public.softwarereviews.com/production/logos/offerings/11746/original/Canva-logo-1024x1024.png",
+    "color": "#00C4CC"
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "category": "Productividad",
+    "categoryList": "productivity",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png",
+    "color": "#000000"
+  },
+  {
+    "id": "disney-plus",
+    "name": "Disney+",
+    "category": "Entretenimiento",
+    "categoryList": "entertainment",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png",
+    "color": "#113CCF"
+  },
+  {
+    "id": "amazon-prime-video",
+    "name": "Amazon Prime Video",
+    "category": "Entretenimiento",
+    "categoryList": "entertainment",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Prime_Logo.svg/2560px-Amazon_Prime_Logo.svg.png",
+    "color": "#00A8E1"
+  },
+  {
+    "id": "adobe-cc",
+    "name": "Adobe Creative Cloud",
+    "category": "Productividad",
+    "categoryList": "productivity",
+    "logoUrl": "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_a3031b709de60547c040f5b398210ace/adobe-creative-cloud.png",
+    "color": "#FF0000"
+  },
+  {
+    "id": "hbo-max",
+    "name": "HBO Max",
+    "category": "Entretenimiento",
+    "categoryList": "entertainment",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOloUJOvNcEAj9KMVePUlNET-Jf_KQNqJl1w&s",
+    "color": "#6E36B4"
+  },
+  {
+    "id": "evernote",
+    "name": "Evernote",
+    "category": "Productividad",
+    "categoryList": "productivity",
+    "logoUrl": "https://cdn-icons-png.flaticon.com/512/2111/2111389.png",
+    "color": "#00A82D"
+  },
+  {
+    "id": "duolingo-plus",
+    "name": "Duolingo Plus",
+    "category": "Educación",
+    "categoryList": "education",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJxYSLpF1U7XcxXi-LKTExiUQZBMmr4H4o8Q&s",
+    "color": "#58CC02"
+  },
+  {
+    "id": "coursera-plus",
+    "name": "Coursera Plus",
+    "category": "Educación",
+    "categoryList": "education",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png",
+    "color": "#0056D2"
+  },
+    {
+    "id": "platzi",
+    "name": "Platzi",
+    "category": "Educación",
+    "categoryList": "education",
+    "logoUrl": "https://cdn-1.webcatalog.io/catalog/platzi/platzi-icon-filled-256.png",
+    "color": "#0eb069"
+  },
+  {
+    "id": "google-one",
+    "name": "Google One",
+    "category": "Almacenamiento",
+    "categoryList": "storage",
+    "logoUrl": "https://brandlogos.net/wp-content/uploads/2021/09/google-one-logo-512x512.png",
+    "color": "#f2d609"
+  },
+  {
+    "id": "icloud",
+    "name": "iCloud",
+    "category": "Almacenamiento",
+    "categoryList": "storage",
+    "logoUrl": "https://cdn.jim-nielsen.com/ios/512/icloud-drive-2017-06-19.png",
+    "color": "#9f9f9f"
+  },
+  {
+    "id": "dropbox",
+    "name": "Dropbox",
+    "category": "Almacenamiento",
+    "categoryList": "storage",
+    "logoUrl": "https://cdn.prod.website-files.com/66c503d081b2f012369fc5d2/674000d6c0a42d41f8c331be_dropbox-2-logo-png-transparent.png",
+    "color": "#0061FF"
+  },
+  {
+    "id": "one-drive",
+    "name": "OneDrive",
+    "category": "Almacenamiento",
+    "categoryList": "storage",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg/1280px-Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg.png",
+    "color": "#094AB2"
+  },
+  {
+    "id": "fitbit-premium",
+    "name": "Fitbit Premium",
+    "category": "Salud",
+    "categoryList": "health",
+    "logoUrl": "https://cdn.iconscout.com/icon/free/png-256/free-fitbit-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-2944873.png",
+    "color": "#00B0B9"
+  },
+  {
+    "id": "strava",
+    "name": "Strava",
+    "category": "Salud",
+    "categoryList": "health",
+    "logoUrl": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/323_Strava_logo-512.png",
+    "color": "#FC4C02"
+  }
+]
